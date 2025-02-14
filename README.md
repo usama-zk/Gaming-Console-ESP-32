@@ -48,14 +48,21 @@ Scores are sent to different fields based on the game:
 
 **Hardware Requirements**
 
-Microcontroller: ESP32 (or similar with WiFi capabilities).
-![alt text](Screenshots/image.png)
-Display: SSD1306 OLED (128x64 pixels).
-![alt text](Screenshots/image-1.png)
-Input: Analog joystick.
+- Microcontroller: ESP32 (or similar with WiFi capabilities).
+
+   ![alt text](Screenshots/image.png)
+
+- Display: SSD1306 OLED (128x64 pixels).
+
+ <img src="Screenshots/image-1.png" alt="alt text" width="300" height="224">
+
+- Input: Analog joystick.
+
 ![alt text](Screenshots/image-2.png)
-Output: Buzzer for sound effects.
-![alt text](Screenshots/image-3.png)
+
+- Output: Buzzer for sound effects.
+
+<img src="Screenshots/image-3.png" alt="alt text" width="300" height="224">
 
 **How to Use**
 
@@ -85,5 +92,5 @@ Output: Buzzer for sound effects.
 
 ![alt text](Screenshots/image-4.png)
 
-For demo click on the link below.
+For demo click on the link below:
 https://youtu.be/BajfkyqpX4I

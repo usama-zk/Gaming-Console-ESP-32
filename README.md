@@ -92,5 +92,5 @@ Scores are sent to different fields based on the game:
 
 ![alt text](Screenshots/image-4.png)
 
-For demo click on the link below:
+For demo click on the given link:
 https://youtu.be/BajfkyqpX4I

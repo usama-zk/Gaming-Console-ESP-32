@@ -1,4 +1,4 @@
-## Arduino Game Console with OLED Display and WiFi Integration
+## Gaming Console with OLED Display and WiFi Integration
 **This project is an Arduino-based game console that allows users to play two classic games: Brick Breaker and Snake. The console uses an OLED display for rendering the games, a joystick for user input, and a buzzer for sound effects. Additionally, it integrates with WiFi to send game scores to ThingSpeak, a cloud-based IoT platform, for tracking and analysis.**
 
 ### Features
